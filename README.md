@@ -16,7 +16,8 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td> </td>
+    <td>cd /home/cloudera/spark-2.0.0-bin-hadoop2.7/sbin
+sudo ./start-all.sh</td>
     <td><img src=" "></td>
  </tr>
 </table><br>
