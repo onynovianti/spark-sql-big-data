@@ -571,7 +571,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Code</b></td>
-    <td width="500"><b style="font-size:30px">Output</b></td>
+    <td width="20%"><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/09_impor_csv.py#L7-L11</td>
