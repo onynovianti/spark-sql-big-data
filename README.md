@@ -538,7 +538,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/08_impor_json.py#L16-L17</td>
-    <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/00_images/17.%20Menulis%20Data%20ke%20Format%20Lain.png<img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/00_images/17.%20Menulis%20Data%20ke%20Format%20Lain.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
