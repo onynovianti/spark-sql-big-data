@@ -31,7 +31,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td> </td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L1-L4</td>
     <td><img src=" "></td>
  </tr>
  <tr>
@@ -57,7 +57,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td> </td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L6-L7</td>
     <td><img src=" "></td>
  </tr>
  <tr>
@@ -83,7 +83,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td> </td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L9-L10</td>
     <td><img src=" "></td>
  </tr>
  <tr>
@@ -109,7 +109,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>hadoop fs -put /home/cloudera/Downloads/examples/resources/people.json people.json </td>
+    <td>hadoop fs -put /home/cloudera/Downloads/examples/resources/people.txt people.txt </td>
     <td><img src=" "></td>
  </tr>
  <tr>
@@ -139,7 +139,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td> </td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L12-L21</td>
     <td><img src=" "></td>
  </tr>
  <tr>
@@ -173,7 +173,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td> </td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L24-L38</td>
     <td><img src=" "></td>
  </tr>
  <tr>
@@ -396,7 +396,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td> </td>
+    <td></td>
     <td><img src=" "></td>
  </tr>
  <tr>
