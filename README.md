@@ -139,7 +139,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L12-L21</td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L14-L21</td>
     <td><img src=" "></td>
  </tr>
  <tr>
