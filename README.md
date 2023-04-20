@@ -18,7 +18,7 @@ Big Data Analytics with Spark SQL, DataFrames, and Datasets
  <tr>
     <td>cd /home/cloudera/spark-2.0.0-bin-hadoop2.7/sbin <br>
 sudo ./start-all.sh</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/0.1.%20Menjalankan%20Spark%20Daemons.png"></td>
  </tr>
 </table><br>
 
@@ -33,7 +33,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L1-L4</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/kode%201.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -59,7 +59,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L6-L7</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/kode%202.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -85,7 +85,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L9-L10</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/kode%203.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -111,7 +111,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>hadoop fs -put /home/cloudera/Downloads/examples/resources/people.txt people.txt </td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/4.%20Copy%20File%20people.txt.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -141,7 +141,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L14-L21</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/5.%20Read%20Data%20From%20A%20File%2C%20Infer%20Schema%20And%20Convert%20To%20Dataframe.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -175,7 +175,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/5be0ff9c4407c5e78a1dd301b06aed51cd4b7518/01_dataframes.py#L24-L38</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/6.%20Membaca%20Data%20Dari%20File%2C%20Lalu%20Assign%20Schema%20Secara%20Programmatically.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -218,7 +218,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/02_dataframe_mysql.py#L3-L5</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/7.%20Membuat%20DataFrame%20dari%20Database%20eksternal%20-%20Metode%20Pertama.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -252,7 +252,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/02_dataframe_mysql.py#L7-L9</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/8.%20Membuat%20DataFrame%20dari%20Database%20eksternal%20-%20Metode%20Kedua.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -275,7 +275,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/03_convert_df_rdd.py#L1-L12</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/9.%20Konversi%20dari%20DataFrames%20ke%20RDD.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -306,7 +306,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/04_datasets.scala#L3-L9</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/10.%20Membuat%20Dataset%20dan%20DataFrame%20dari%20RDD%20Menggunakan%20Scala.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -336,7 +336,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/04_datasets.scala#L13-L30</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/11.%20Datasets%20RDD.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -367,7 +367,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/05_convert_df_ds.py#L3-L15</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/12.%20Konversi%20ke%20Dataset.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -398,7 +398,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/06_access_metadata.py#L3-L9</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/13.%20Mengakses%20informasi%20metadata%20tentang%20tabel%20Hive%20dan%20UDF.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -437,7 +437,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/07_impor_txt.py#L3-L6</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/14.%20Memuat%20Data%20Dari%20Berkas%20Teks.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -464,7 +464,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>hadoop fs -put /home/cloudera/Downloads/examples/resources/people.json people.json </td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/0.2.%20Copy%20Dataset%20people.json.png"></td>
  </tr>
 </table><br>
 
@@ -478,7 +478,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/08_impor_json.py#L3-L7</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/15.%20Memuat%20Data%20Dari%20Berkas%20JSON.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -512,7 +512,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/08_impor_json.py#L9-L12</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/16.%20Menulis%20Data%20ke%20File%20JSON%20Lain.png"></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -538,7 +538,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/08_impor_json.py#L16-L17</td>
-    <td><img src=" "></td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/17.%20Menulis%20Data%20ke%20Format%20Lain.png<img src=" "></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -561,7 +561,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>wget https://raw.githubusercontent.com/databricks/spark-csv/master/src/test/resources/cars.csv --no-check-certificate <br/> hadoop fs -put cars.csv</td>
-    <td><img src=" "></td>
+    <td><img src="https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/0.3.%20Unduh%20Dataset%20cars.scv.png"></td>
  </tr>
 </table><br>
 
@@ -571,7 +571,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Code</b></td>
-    <td width="20%"><b style="font-size:30px">Output</b></td>
+    <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/09_impor_csv.py#L7-L11</td>
