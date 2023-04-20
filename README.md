@@ -41,11 +41,11 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>mylist</td>
-    <td> </td>
+    <td>mylist pada kode diatas merujuk pada nama variabel</td>
  </tr>
  <tr>
     <td>myschema</td>
-    <td> </td>
+    <td>sama seperti mylist, myschema juga merupakan nama variabel</td>
  </tr>
 </table><br>
 
@@ -67,11 +67,11 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>spark</td>
-    <td> </td>
+    <td>Merujuk pada builder spark dengan SparkSession</td>
  </tr>
  <tr>
     <td>createDataFrame</td>
-    <td> </td>
+    <td>Membuat data frame manual dan mengambil objek RDD sebagai argumennya</td>
  </tr>
 </table><br>
 
@@ -93,11 +93,11 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>parallelize</td>
-    <td> </td>
+    <td>Membuat RDD dari list collection</td>
  </tr>
  <tr>
     <td>toDF</td>
-    <td> </td>
+    <td>Membuat data frame dari RDD yang sudah ada</td>
  </tr>
 </table><br>
 
@@ -119,15 +119,15 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>hadoop</td>
-    <td> </td>
+    <td>Hadoop Distributed File System (HDFS)</td>
  </tr>
  <tr>
     <td>fs</td>
-    <td> </td>
+    <td>Command line untuk memanipulasi file pada HDFS</td>
  </tr>
  <tr>
     <td>put</td>
-    <td> </td>
+    <td>Menyalin file dari berkas lokal ke HDFS</td>
  </tr>
 </table><br>
 
@@ -149,19 +149,19 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>pyspark.sql</td>
-    <td> </td>
+    <td>Modul python yang digunakan untuk bekerja dengan Spark SQL</td>
  </tr>
  <tr>
     <td>SQLContext</td>
-    <td> </td>
+    <td>Membuat atau mengelola struktur data Spark SQL, seperti DataFrames dan tabel</td>
  </tr>
  <tr>
     <td>createOrReplaceTempView</td>
-    <td> </td>
+    <td>Membuat atau mengganti temporary view dari DataFrame</td>
  </tr>
  <tr>
     <td>show</td>
-    <td> </td>
+    <td>Menampilkan hasil dari perintah sebelumnya (hasil dari DataFrame) dalam format tabel</td>
  </tr>
 </table><br>
 
@@ -183,27 +183,27 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>textFile</td>
-    <td> </td>
+    <td>Membaca teks sebagai RDD</td>
  </tr>
  <tr>
     <td>map</td>
-    <td> </td>
+    <td>Menerapkan sebuah fungsi pada setiap elemen dan menghasilkan RDD baru</td>
  </tr>
  <tr>
     <td>lambda</td>
-    <td> </td>
+    <td>Fungsi tanpa menggunakan kata "def", biasanya dikombinasikan untuk digunakan pada argumen fungsi </td>
  </tr>
  <tr>
     <td>strip</td>
-    <td> </td>
+    <td>Menghapus karakter whitespace pada awal dan akhir string</td>
  </tr>
  <tr>
     <td>StructField</td>
-    <td> </td>
+    <td>Membuat objek kolom dengan memiliki 3 parameter, yaitu : nama kolom, tipe data, dan opsi tambahan</td>
  </tr>
  <tr>
     <td>StringType</td>
-    <td> </td>
+    <td>Mendefinisikan tipe data kolom sebagai String dalam DataFrame</td>
  </tr>
 </table><br>
 
@@ -226,19 +226,19 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>spark.read.format</td>
-    <td> </td>
+    <td>Membaca data dari berbagai sumber data seperti json, dan csv, dan lain-lain</td>
  </tr>
  <tr>
     <td>jdbc</td>
-    <td> </td>
+    <td>Sumber data berasal dari jdbc (Java Database Connectivity)</td>
  </tr>
  <tr>
     <td>options</td>
-    <td> </td>
+    <td>Opsi konfigurasi untuk mengkoneksikan ke JDBC</td>
  </tr>
  <tr>
     <td>load</td>
-    <td> </td>
+    <td>Membaca data ke dalam DataFrame</td>
  </tr>
 </table><br>
 
@@ -260,7 +260,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>show</td>
-    <td> </td>
+    <td>Menampilkan konten, pada kode diatas yaitu menampilkan isi DataFrame df2</td>
  </tr>
 </table><br>
 
@@ -283,15 +283,15 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>collect</td>
-    <td> </td>
+    <td>Mengumpulkan baris data dan mereturn list</td>
  </tr>
  <tr>
     <td>rdd</td>
-    <td> </td>
+    <td>Pada kode diatas rdd digunakan untuk merubah DataFrame ke dalam RDD</td>
  </tr>
  <tr>
     <td>take</td>
-    <td> </td>
+    <td>Mengambil baris dalam RDD. take(2) berarti mengambil 2 baris pertama dan mereturn dalam bentuk list</td>
  </tr>
 </table><br>
 
@@ -314,15 +314,15 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>makeRDD</td>
-    <td> </td>
+    <td>Membuat RDD dari list atau array</td>
  </tr>
  <tr>
     <td>Seq</td>
-    <td> </td>
+    <td>Tipe data collection atau urutan dalam Scala</td>
  </tr>
  <tr>
     <td>createDataset</td>
-    <td> </td>
+    <td>Membuat dataset baru</td>
  </tr>
 </table><br>
 
@@ -344,7 +344,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>filter</td>
-    <td> </td>
+    <td>Melakukan filter pada sebuah Dataset dengan kondisi yang diberikan</td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Soal</b></td>
@@ -352,7 +352,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>Pada Kode 11 di baris akhir terjadi error, jelaskan pada laporan praktikum Anda mengapa ini bisa terjadi ?</td>
-    <td> </td>
+    <td>Hal tersebut terjadi karena pada struktur Dept yang sudah dilakukan pada kode sebelumnya, tidak menunjukkan adanya kolom bernama dept_location. Yang ada hanya kolom dept_id dan dept_name</td>
  </tr>
 </table><br>
 
@@ -375,22 +375,22 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>as</td>
-    <td> </td>
+    <td>Memastikan kolom-kolom dalam DataFrame diubah menjadi atribut dari kelas case class Dept</td>
  </tr>
  <tr>
     <td>toDF</td>
-    <td> </td>
+    <td>Mengonversi RDD menjadi DataFrame</td>
  </tr>
  <tr>
     <td>first</td>
-    <td> </td>
+    <td>Mengembalikan elemen pertama RDD atau DataFrame</td>
  </tr>
 </table><br>
 
 **6. Mengakses MetadataMenggunakan Catalog**
 <table border="0">
  <tr>
-    <th colspan="2" align="center"><b>Kode 13 : Mengakses informasi metadata tentang tabel Hive dan UDF (Gagal karena tabel/view sample_07 tidak ditemukan)</b></th>
+    <th colspan="2" align="center"><b>Kode 13 : Mengakses informasi metadata tentang tabel Hive dan UDF <br>(Gagal karena tabel/view sample_07 tidak ditemukan)</b></th>
  </tr>
  <tr>
     <td><b style="font-size:30px">Code</b></td>
@@ -406,23 +406,23 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>listDatabases</td>
-    <td> </td>
+    <td>Mendapatkan daftar dari semua database yang tersedia pada cluster Spark</td>
  </tr>
  <tr>
     <td>listTables</td>
-    <td> </td>
+    <td>Mendapatkan daftar dari semua table yang tersedia pada cluster Spark</td>
  </tr>
  <tr>
     <td>listFunctions</td>
-    <td> </td>
+    <td>Mendapatkan daftar dari semua function yang tersedia pada cluster Spark</td>
  </tr>
  <tr>
     <td>isCached</td>
-    <td> </td>
+    <td>Mengecek apakah tabel sudah di cache atau belum, nilai kembalian berupa true/false</td>
  </tr>
  <tr>
     <td>select</td>
-    <td> </td>
+    <td>Memilih kolom, pada contoh diatas yang dipilih adalah kolom name</td>
  </tr>
 </table><br>
 
@@ -445,11 +445,11 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>Read</td>
-    <td> </td>
+    <td>Membaca data dari sumber eksternal</td>
  </tr>
  <tr>
     <td>text</td>
-    <td> </td>
+    <td>Format teks dan dimuat menjadi RDD</td>
  </tr>
 </table><br>
 
@@ -486,19 +486,19 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>load</td>
-    <td> </td>
+    <td>Membaca data ke dalam DataFrame</td>
  </tr>
  <tr>
     <td>json</td>
-    <td> </td>
+    <td>Format json dimuat dalam DataFrame</td>
  </tr>
  <tr>
     <td>format</td>
-    <td> </td>
+    <td>Membaca file dalam format tertentu seperti pada parameter atau argumen</td>
  </tr>
  <tr>
     <td>printSchema</td>
-    <td> </td>
+    <td>Menampilkan schema DataFrame</td>
  </tr>
 </table><br>
 
@@ -520,11 +520,11 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>write</td>
-    <td> </td>
+    <td>Menulis DataFrame ke format JSON</td>
  </tr>
  <tr>
     <td>save</td>
-    <td> </td>
+    <td>Menulis DataFrame ke dalam format tertentu</td>
  </tr>
 </table><br>
 
@@ -538,7 +538,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/08_impor_json.py#L16-L17</td>
-    <td>https://github.com/onynovianti/spark-sql-big-data/blob/master/00_images/17.%20Menulis%20Data%20ke%20Format%20Lain.png<img src=" "></td>
+    <td>https://github.com/onynovianti/spark-sql-big-data/blob/b130c4f9f24a422157ab882c8922a95564620841/00_images/17.%20Menulis%20Data%20ke%20Format%20Lain.png<img src=" "></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">Kode</b></td>
@@ -546,7 +546,7 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>parquet</td>
-    <td> </td>
+    <td>Format file untuk menyimpan data terstruktur di hdfs</td>
  </tr>
 </table><br>
 
@@ -583,22 +583,22 @@ sudo ./start-all.sh</td>
  </tr>
  <tr>
     <td>Options</td>
-    <td> </td>
+    <td>Opsi konfigurasi</td>
  </tr>
  <tr>
     <td>inferSchema</td>
-    <td> </td>
+    <td>Menentukan tipe data dari setiap kolom secara otomatis</td>
  </tr>
  <tr>
     <td>csv</td>
-    <td> </td>
+    <td>Membaca file csv dan mereturn sebagai DataFrame</td>
  </tr>
  <tr>
     <td>header</td>
-    <td> </td>
+    <td>Argumen untuk membaca file dengan header</td>
  </tr>
  <tr>
     <td>codec</td>
-    <td> </td>
+    <td>Mengompresi data yang disimpan di HDFS</td>
  </tr>
 </table><br>
